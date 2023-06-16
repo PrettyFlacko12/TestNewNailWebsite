@@ -1,0 +1,300 @@
+Uri: https://capp.nicepage.com/99f3030225e908200f7b9c08c9b47d686b3a81a6/images/default-logo.png
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\99f3030225e908200f7b9c08c9b47d686b3a81a6\images\default-logo.png
+Content Type: image/png
+
+Uri: https://capp.nicepage.com/99f3030225e908200f7b9c08c9b47d686b3a81a6/nicepage.js
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\99f3030225e908200f7b9c08c9b47d686b3a81a6\nicepage.js
+Content Type: application/javascript
+
+Uri: https://capp.nicepage.com/dc06bf325af4de98f634af6549d107114cf3123b/nicepage.js
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\dc06bf325af4de98f634af6549d107114cf3123b\nicepage.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Playfair+Display:400,400i,700,700i,900,900i|Playfair+Display:400,400i,700,700i,900,900i
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUXtHA_A.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\playfairdisplay\v30\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUXtHA_A.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\playfairdisplay\v30\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\playfairdisplay\v30\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUXtHA_A.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\playfairdisplay\v30\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXtHA_A.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\playfairdisplay\v30\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\playfairdisplay\v30\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDXbtY.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDXbtY.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDXbtY.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDXbtY.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://images01.nicepage.com/c461c07a441a5d220e8feb1a/3ba329bc13625d93933078f0/rrrr-min.jpg
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\c461c07a441a5d220e8feb1a\3ba329bc13625d93933078f0\rrrr-min.jpg
+Content Type: image/jpeg
+
+Uri: https://images03.nicepage.com/c461c07a441a5d220e8feb1a/46231065d71a5bfd9c152bdf/woman-doing-manicure-client-close-up_23-2148697076.jpg
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\c461c07a441a5d220e8feb1a\46231065d71a5bfd9c152bdf\woman-doing-manicure-client-close-up_23-2148697076.jpg
+Content Type: image/jpeg
+
+Uri: https://images03.nicepage.com/c461c07a441a5d220e8feb1a/4b596ccc34c05a909f1a94e1/rettt-min.jpg
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\c461c07a441a5d220e8feb1a\4b596ccc34c05a909f1a94e1\rettt-min.jpg
+Content Type: image/jpeg
+
+Uri: https://images03.nicepage.com/c461c07a441a5d220e8feb1a/5776abeef17c5300a950984d/portrait-young-beautiful-playful-woman-with-bun-posing_176420-12392.jpg
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\c461c07a441a5d220e8feb1a\5776abeef17c5300a950984d\portrait-young-beautiful-playful-woman-with-bun-posing_176420-12392.jpg
+Content Type: image/jpeg
+
+Uri: https://images03.nicepage.com/c461c07a441a5d220e8feb1a/57886819b1f35e05ab374713/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\c461c07a441a5d220e8feb1a\57886819b1f35e05ab374713\pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg
+Content Type: image/jpeg
+
+Uri: https://images03.nicepage.com/c461c07a441a5d220e8feb1a/66fbda2c2285510798f0d232/woman-showing-her-beautiful-nails_23-2148697087.jpg
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\c461c07a441a5d220e8feb1a\66fbda2c2285510798f0d232\woman-showing-her-beautiful-nails_23-2148697087.jpg
+Content Type: image/jpeg
+
+Uri: https://images03.nicepage.com/c461c07a441a5d220e8feb1a/79e76ea69f5951819972d9d5/uyj-min.jpg
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\c461c07a441a5d220e8feb1a\79e76ea69f5951819972d9d5\uyj-min.jpg
+Content Type: image/jpeg
+
+Uri: https://images03.nicepage.com/c461c07a441a5d220e8feb1a/80aa4e10f3705e83a0b73c06/beautiful-female-hands-with-french-manicure-preparing-getting-spa-procedure_186202-4227.jpg
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\c461c07a441a5d220e8feb1a\80aa4e10f3705e83a0b73c06\beautiful-female-hands-with-french-manicure-preparing-getting-spa-procedure_186202-4227.jpg
+Content Type: image/jpeg
+
+Uri: https://images03.nicepage.com/c461c07a441a5d220e8feb1a/99638f6314a758158e9aca52/close-up-shot-pretty-woman-with-perfect-teeth-dark-clean-skin-having-rest-indoors-smiling-happily-after-received-good-positive-news_273609-1248.jpg
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\c461c07a441a5d220e8feb1a\99638f6314a758158e9aca52\close-up-shot-pretty-woman-with-perfect-teeth-dark-clean-skin-having-rest-indoors-smiling-happily-after-received-good-positive-news_2.jpg
+Content Type: image/jpeg
+
+Uri: https://images03.nicepage.com/c461c07a441a5d220e8feb1a/a1cd412524a854f59d55426b/ersg-min.jpg
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\c461c07a441a5d220e8feb1a\a1cd412524a854f59d55426b\ersg-min.jpg
+Content Type: image/jpeg
+
+Uri: https://images03.nicepage.com/c461c07a441a5d220e8feb1a/cad6b91c66b356c399cae006/skincare-beauty-female-feet-with-camomile-s-flower_186202-728.jpg
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\c461c07a441a5d220e8feb1a\cad6b91c66b356c399cae006\skincare-beauty-female-feet-with-camomile-s-flower_186202-728.jpg
+Content Type: image/jpeg
+
+Uri: https://images03.nicepage.com/c461c07a441a5d220e8feb1a/cdf4f0e34d105b09859124f8/serer.jpg
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\c461c07a441a5d220e8feb1a\cdf4f0e34d105b09859124f8\serer.jpg
+Content Type: image/jpeg
+
+Uri: https://images03.nicepage.com/c461c07a441a5d220e8feb1a/ceceb75fb67753959e834699/close-up-portrait-candid-smiling-attractive-woman-with-white-teeth-isolated-long-curly-hair-white-blouse-elegant-business-style-happy-positive-emo.jpg
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\c461c07a441a5d220e8feb1a\ceceb75fb67753959e834699\close-up-portrait-candid-smiling-attractive-woman-with-white-teeth-isolated-long-curly-hair-white-blouse-elegant-business-style-happy.jpg
+Content Type: image/jpeg
+
+Uri: https://images03.nicepage.com/c461c07a441a5d220e8feb1a/eeb8f378531c5c18a483df13/7479f007-c2bd-8af1-7d1c-e362713f8e7c.jpg
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\c461c07a441a5d220e8feb1a\eeb8f378531c5c18a483df13\7479f007-c2bd-8af1-7d1c-e362713f8e7c.jpg
+Content Type: image/jpeg
+
+Uri: https://static.nicepage.com/shared/assets/jquery-1.9.1.min.js
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\shared\assets\jquery-1.9.1.min.js
+Content Type: application/javascript
+
+Uri: https://website218957.nicepage.io/
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\index.htm
+Content Type: text/html
+
+Uri: https://website218957.nicepage.io/nicepage.css?version=93c966b0-2e0a-4f9f-9726-6ae94cdc6902
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\nicepage.css
+Content Type: text/css
+
+Uri: https://website218957.nicepage.io/Page-15.html
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\Page-15-1.html
+Content Type: text/html
+
+Uri: https://website218957.nicepage.io/Page-15.html?version=2f7f5c24-fbff-45cd-b31f-a90fc7c7850f
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\Page-15.html
+Content Type: text/html
+
+Uri: https://website218957.nicepage.io/Page-20.html
+File Name: C:\Users\X\Desktop\WEB-BUISSNESS\Sites\test1\website218957.nicepage.io\Page-20.html
+Content Type: text/html
+
